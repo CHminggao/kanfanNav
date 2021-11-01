@@ -286,6 +286,14 @@ https://bbs.kafan.cn/thread-2185057-1-1.html
 
 https://bbs.kafan.cn/thread-2212547-1-1.html
 
+**Internet Download Manager v6.39 Build 8 稳定版** 
+
+https://bbs.kafan.cn/thread-1862959-1-1.html
+
+**Internet Download Manager 6.39.8 (Repack) By elchupacabra**
+
+https://bbs.kafan.cn/thread-2206969-1-1.html
+
 ---
 
 ### qBittorrent
@@ -338,6 +346,10 @@ https://bbs.kafan.cn/thread-2133019-1-1.html
 
 https://bbs.kafan.cn/thread-2210704-1-1.html
 
+**WinRAR V6.10 beta 1 x64 烈火汉化**
+
+https://bbs.kafan.cn/thread-2219691-1-1.html
+
 ---
 
 ### 7-Zip
@@ -349,6 +361,10 @@ https://bbs.kafan.cn/thread-2214692-1-1.html
 **7-zip_21.03_beta**
 
 https://bbs.kafan.cn/thread-2210597-1-1.html
+
+**7-Zip 20.02美化便携版以集成7zTM**
+
+https://bbs.kafan.cn/thread-2189211-1-1.html
 
 ---
 
@@ -390,13 +406,13 @@ https://bbs.kafan.cn/thread-2215793-1-1.html
 
 https://bbs.kafan.cn/thread-2218486-1-1.html
 
-
-
 **asion汉化 FOOBAR20001.65 汉化版**
 
 https://bbs.kafan.cn/thread-2206962-1-1.html
 
+**foobar2000v1.6.7汉化版-asion**
 
+https://bbs.kafan.cn/thread-2220341-1-1.html
 
 **foobar20001.64汉化绿色版**
 
@@ -482,6 +498,10 @@ https://bbs.kafan.cn/thread-2205630-1-1.html
 
 https://bbs.kafan.cn/thread-2191592-1-1.html
 
+**〖PotPlayer皮肤〗ModernW10_v3.5_汉化增强版**
+
+https://bbs.kafan.cn/thread-2219283-1-1.html
+
 ---
 
 ### 千千静听
@@ -506,7 +526,121 @@ https://bbs.kafan.cn/thread-2186546-1-1.html
 
 ----
 
-----
+---
+
+## 媒体/图片 处理
+
+---
+
+### PhotoShop (PS)
+
+**Adobe Photoshop 2022 (23.0.0.36)  vposy **
+
+https://bbs.kafan.cn/thread-2220468-1-1.html
+
+---
+
+### 会声会影
+
+**<font color=#ff0000>权限20</font>  会声会影2020 v23.3.0.647**
+
+https://bbs.kafan.cn/thread-2220149-1-1.html
+
+---
+
+### PerfectlyClear4
+
+**照片清晰智能调整PerfectlyClear4.0.0.2184_x64便携增强版**
+
+https://bbs.kafan.cn/thread-2190508-1-1.html
+
+---
+
+### Movavi Picverse
+
+**Movavi Picverse（AI修图软件）V1.4.0**
+
+https://bbs.kafan.cn/thread-2220712-1-1.html
+
+---
+
+### XnView
+
+**XnView MP 官方免费版 图像查看&编辑器 0.99 2.50.1 4.1.2**
+
+https://bbs.kafan.cn/thread-2217617-1-1.html
+
+***
+
+***
+
+## 文档处理
+
+### Microsoft Office
+
+**<font color="#ff0000">权限5</font>  @xb21cn Office2016/2013/2010/2007/2003专业增强版20201113**
+
+https://bbs.kafan.cn/forum-65-1.html
+
+**Microsoft Office 2007 SP3 X86 三合一 秋刀鱼精简版**
+
+https://bbs.kafan.cn/thread-2218534-1-1.html
+
+**Ratiborus Office 2013-2021 C2R Install v7.3.5 官方原版、汉化版**
+
+https://bbs.kafan.cn/thread-2219958-1-1.html
+
+**Microsoft office 2016 官方批量授权版 2021.09**
+
+https://bbs.kafan.cn/thread-2217625-1-1.html
+
+**Office 2021专业增强版】一键离线安装，永久授权-21年10月更新企业长期通道版**
+
+https://bbs.kafan.cn/thread-2219576-1-1.html
+
+
+
+**微软Office完全卸载工具—— Office Uninstall 1.8.3 By Ratiborus**
+
+https://bbs.kafan.cn/thread-2220527-1-1.html
+
+---
+
+### WPS Office
+
+**WPS Office 2019 卡饭论坛专版 11.8.2.10912**
+
+https://bbs.kafan.cn/thread-2190378-1-1.html
+
+**WPS Office 2019 专业增强版 11.8.2.8875&11.8.2.8959**
+
+https://bbs.kafan.cn/thread-2189700-1-1.html
+
+---
+
+### SumatraPDF
+
+**SumatraPDF V3.3.3单文件版 PDF阅读器 **
+
+https://bbs.kafan.cn/thread-2214413-1-1.html
+
+---
+
+### PDF-XChange Editor
+
+**【2020.11.23】PDF-XChange Editor Plus 7.0.328.2中文精简安装版（64位）**
+
+https://bbs.kafan.cn/thread-2146720-1-1.html
+
+---
+
+**[Android] [Mac]阅读软件：花火阅读+阅读app+在线听书书源+朗读引擎TTS**
+
+https://bbs.kafan.cn/thread-2220129-1-1.html
+
+---
+
+---
 
 ## Ashampoo
 
